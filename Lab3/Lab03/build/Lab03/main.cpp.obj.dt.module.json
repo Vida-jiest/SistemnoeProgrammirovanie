@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Новая папка (7)\\Lab03\\build\\Lab03\\main.obj",
+            "outputs": [
+                "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Новая папка (7)\\Lab03\\build\\Lab03\\main.cpp.obj.dt.module.json",
+                "C:\\Users\\rpk20\\OneDrive\\Рабочий стол\\Новая папка (7)\\Lab03\\build\\Lab03\\main.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
